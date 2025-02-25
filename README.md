@@ -7,7 +7,6 @@
 - 🏆 Completed an Internship at **EnergyTech Global Private Limited**  
 - 🚀 Open to collaboration on DevOps and Cloud-related projects  
 - 📚 I enjoy learning new technologies and self-hosting projects  
-- ✍️ Writing blogs on Cloud & DevOps  
 
 📫 **How to reach me:**  
 - 📩 Email: [sakshayrao1265@gmail.com](mailto:sakshayrao1265@gmail.com)  
@@ -16,34 +15,27 @@
 
 ---
 
-## 🚀 **Tech Stack & Tools:**  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+### 🚀 Technologies & Tools  
+
+### 🛠️ Tech Stack & Tools  
+
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="50" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="GitLab" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" alt="Ansible" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" alt="VirtualBox" width="40" height="40"/>  
+</p>
+
+
+
 
 ---
 
-## 📈 **GitHub Stats:**  
-![Akshay's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkshaySirpuram&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkshaySirpuram&layout=compact&theme=radical)  
-
----
-
-## 📖 **Latest Blogs & Projects:**  
-🚀 **Projects:**  
-- [Project 1 - DevOps CI/CD Pipeline](#)  
-- [Project 2 - AWS Infrastructure Automation](#)  
-- [Project 3 - Kubernetes Deployment](#)  
-
-📝 **Blogs:**  
-- [Introduction to AWS Cloud](#)  
-- [Getting Started with Docker](#)  
-- [Kubernetes for Beginners](#)  
-
----
 
 ⭐ **If you like my work, consider giving it a star!** 🌟  
