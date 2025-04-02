@@ -3,7 +3,7 @@
 
 🔭 **About Me:**  
 - 💻 Passionate about Cloud, DevOps, and Automation  
-- 🌱 Currently pursuing **MCA at University College of Science, Hyderabad**  
+- 🎓 Bachelor of Computer Systems and Engineering from Loyola College  
 - 🏆 Completed an Internship at **EnergyTech Global Private Limited**  
 - 🚀 Open to collaboration on DevOps and Cloud-related projects  
 - 📚 I enjoy learning new technologies and self-hosting projects  
