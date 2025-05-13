@@ -2,7 +2,7 @@
 <h3 align="center">DevOps Engineer | Cloud Enthusiast | Open Source Contributor</h3>  
 
 🔭 **About Me:**  
-- 💻 Passionate about Cloud, DevOps,SysAdmin and Technical Services  
+- 💻 Passionate about Cloud, DevOps, SysAdmin and Technical Services  
 - 🎓 Master of Computer Applications (MCA) from University College of Science, Osmania University (OU) in Hyderabad.
 - 🚀 Open to collaboration on DevOps and Cloud-related projects  
 - 📚 I enjoy learning new technologies and self-hosting projects  
