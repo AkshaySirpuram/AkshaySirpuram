@@ -3,8 +3,7 @@
 
 🔭 **About Me:**  
 - 💻 Passionate about Cloud, DevOps, and Automation  
-- 🎓 Bachelor of Computer Systems and Engineering from Loyola College  
-- 🏆 Completed an Internship at **EnergyTech Global Private Limited**  
+- 🎓 Master of Computer Applications (MCA) from University College of Science, Osmania University (OU) in Hyderabad.
 - 🚀 Open to collaboration on DevOps and Cloud-related projects  
 - 📚 I enjoy learning new technologies and self-hosting projects  
 
